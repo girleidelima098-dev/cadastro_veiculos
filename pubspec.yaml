@@ -1,0 +1,10 @@
+name: cadastro_veiculos
+description: Cadastro de veículos via terminal com Dart e Supabase.
+version: 1.0.0
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+  supabase: ^2.0.0
+  dotenv: ^4.2.0
